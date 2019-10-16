@@ -1,0 +1,52 @@
+.nav li{  
+    float: right;
+    padding:0 5px;
+    display: block;
+    } 
+.nav li a:hover{ 
+    color:#b3cccc;
+} 
+#prof{
+    width: 32px;
+}
+.google{
+    padding: 10%;
+    text-align: center;
+}
+input{
+    width: 550px;
+    height: 40px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    outline: none !important;
+}
+.but{
+    margin-top: 3%;
+    width: 120px;
+    height: 40px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 0;
+    background-color: #e0ebeb;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: gray;
+}
+#text{
+    margin-top: 2%;;
+    font-size: 15px;
+}
+footer{
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+    background-color: #e0ebeb;
+}
+#foo{
+    font-size: 15px;
+}
+#r{
+    float: right;
+}
